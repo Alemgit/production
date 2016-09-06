@@ -1,3 +1,3 @@
 #pm_motd module
-mod 'pm_motd',
+mod 'helloworld',
   :git => 'git@github.com:Alemgit/pm_motd'
