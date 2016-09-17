@@ -1,4 +1,4 @@
 #pm_motd module
-#mod "helloworld",
-#  :git => "git@github.com:Alemgit/pm_motd",
-#  :ref => '0ede0aad4e370e37d6669ac13591ca4a7ad55d1e'
+mod "pm_motd",
+  :git => "git@github.com:Alemgit/pm_motd",
+  :ref => '6183593969f33cb8760f531cc4082df513df307a'
