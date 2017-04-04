@@ -12,6 +12,11 @@ mod 'mp',
   :git => 'git@github.com:Alemgit/puppet-mp',
   :ref => 'e767a816ad5244ac70b98337208c703c00258ff6'
 #Motd Module
-mod 'pm_motd',
+mod 'motd',
   :git => 'git@github.com:Alemgit/pm_motd',
   :ref => '3510754c7afdbf6605c8cbcf08df9074a9cf140b'
+
+#Module for Chrony
+mod 'chrony',
+  :git => 'git@github.com:Alemgit/pm_chrony',
+  :ref => '46532a54786756a25a65d56dbb5ae57ef923a6ce'
