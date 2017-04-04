@@ -8,8 +8,8 @@ mod 'vshn/gitlab', '1.11.0'
 #mod 'puppetlabs-motd', '1.4.0'
 
 #Custom module plugin
-mod 'puppet-pm',
-  :git => 'git@github.com:Alemgit/puppet-pm',
+mod 'mp',
+  :git => 'git@github.com:Alemgit/puppet-mp',
   :ref => 'e767a816ad5244ac70b98337208c703c00258ff6'
 #Motd Module
 mod 'pm_motd',
