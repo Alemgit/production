@@ -5,7 +5,11 @@ mod 'puppetlabs/puppet_agent'
 mod 'puppetlabs/inifile'
 mod 'puppetlabs/transition'
 mod 'vshn/gitlab', '1.11.0'
-#mod 'puppetlabs-motd', '1.4.0'
+mod 'puppetlabs-motd', '1.4.0'
+mod 'stahnma-epel', '1.2.2'
+mod 'garethr-docker', '5.3.0'
+mod 'rtyler-jenkins', '1.7.0'
+mod 'openshift-openshift_origin', '4.1.3'
 
 #Custom module plugin
 mod 'mp',
