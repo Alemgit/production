@@ -16,7 +16,7 @@ mod 'mp',
   :git => 'git@github.com:Alemgit/puppet-mp',
   :ref => 'e767a816ad5244ac70b98337208c703c00258ff6'
 #Motd Module
-mod 'pm_motd',
+mod 'motd',
   :git => 'git@github.com:Alemgit/pm_motd',
   :ref => '06738818f753ba21910b2c0558feafa99065dd3e'
 
