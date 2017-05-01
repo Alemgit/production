@@ -18,7 +18,7 @@ mod 'mp',
 #Motd Module
 mod 'motd',
   :git => 'git@github.com:Alemgit/pm_motd',
-  :ref => '952c88a8308a433ea8ed0b27364a2892bde7a563'
+  :ref => '64f4b4207772baffd0d7e1319ad99b66199f8120'
 
 #Module for Chrony
 mod 'chrony',
